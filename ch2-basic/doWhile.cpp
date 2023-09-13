@@ -12,6 +12,7 @@ int main()
     {
         cout << n << endl;
         cin >> n;
-    } while (n > 0);3
-    
+    } while (n > 0);
+
+    return 0;
 }
